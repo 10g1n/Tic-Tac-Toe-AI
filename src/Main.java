@@ -11,11 +11,7 @@ public class Main {
         newGame.printGameGrid(TicTacToe.gameGrid);
 
         char playerTurn;
-
-//        System.out.println(newGame.hardLevel('X', new char[]{'0', '_', '_',
-//                                                                       '_', '_', '_',
-//                                                                       '0', '_', '_'}));
-
+        
         while (true) {
             playerTurn = 'X';
 
